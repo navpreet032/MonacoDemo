@@ -1,8 +1,8 @@
-# React + Vite
+# ERROR
+# Cannot read properties of undefined (reading 'toString')
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    at extractResources (file:///E:/Test%20Project%20for%20intellisense/MonacoEditor/editor/node_modules/@codingame/monaco-vscode-rollup-vsix-plugin/rollup-vsix-plugin.js:1147:58)
+    at async extractResourcesFromExtensionManifest (file:///E:/Test%20Project%20for%20intellisense/MonacoEditor/editor/node_modules/@codingame/monaco-vscode-rollup-vsix-plugin/rollup-vsix-plugin.js:1128:28)
+    at async Context.load (file:///E:/Test%20Project%20for%20intellisense/MonacoEditor/editor/node_modules/@codingame/monaco-vscode-rollup-vsix-plugin/rollup-vsix-plugin.js:1254:41)
+    at async Object.load (file:///E:/Test%20Project%20for%20intellisense/MonacoEditor/editor/node_modules/vite/dist/node/chunks/dep-2b82a1ce.js:44316:32)
+    at async loadAndTransform (file:///E:/Test%20Project%20for%20intellisense/MonacoEditor/editor/node_modules/vite/dist/node/chunks/dep-2b82a1ce.js:54943:24
