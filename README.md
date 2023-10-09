@@ -11,3 +11,4 @@
 
 ## About the  Project
 My main motive for the project was to create a code editor using Electron and React. I want to add an Intellisense feature for C++, and I wonder if I can use the Clangd extension to do so in an Electron React environment. I am new to development, so if you can help me achieve my goal, it would be very helpful for me.
+I was just trying to setup the extension. So i created a new project using react only.
