@@ -8,3 +8,6 @@
    - `at async loadAndTransform (file:///E:/Test%20Project%20for%20intellisense/MonacoEditor/editor/node_modules/vite/dist/node/chunks/dep-2b82a1ce.js:54943:24`
 
      ![image](https://github.com/navpreet032/MonacoDemo/assets/55250212/85e32597-1c70-45e9-be9a-5c7c040e16d7)
+
+## About the  Project
+My main motive for the project was to create a code editor using Electron and React. I want to add an Intellisense feature for C++, and I wonder if I can use the Clangd extension to do so in an Electron React environment. I am new to development, so if you can help me achieve my goal, it would be very helpful for me.
